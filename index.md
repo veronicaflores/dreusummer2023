@@ -51,4 +51,4 @@ The [Distributed Research Experiences for Undergraduates](https://cra.org/cra-wp
 
 ## My Blog
 
-Check my blog for weekly updates **[here](dreusummer2023/blog.html)!**
+Check my blog for weekly updates **[here](https://github.com/veronicaflores/dreusummer2023/blob/master/blog.html)!**
