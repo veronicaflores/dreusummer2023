@@ -43,7 +43,7 @@ This summer, I am continuing my research with vision and language models used in
 The machine learning model we will be using is the **[CLIP Model](https://openai.com/blog/clip/)**, which is trained via natural language supervision. The CLIP model uses a Byte-Pair encoding tokenizer and is a dual-stream Vision Transformer (ViT). For my project we will be expanding on my work last Summer which you can access [here](veronicaflores.github.io). Last Summer I created three different benchmarks which tested the CLIP model, using the Politician dataset I constructed, in its gender and political affiliation bias. This Summer, I plan to delve into the base benchmark and run more tests that include other public figures aside from politicians, such as athletes, artists, and actors. I hope to uncover a more clear gender bias and implement mitigations. 
 
 My final report will be updated at the end of the Summer.
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/DREU_Final_Report_2023_Flores.pdf)
 
 ## About the DREU Progam
 
